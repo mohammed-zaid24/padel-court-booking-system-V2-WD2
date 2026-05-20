@@ -111,4 +111,4 @@ If you already have something running on 8080, 8081, or 3306, change the host po
 
 ## AI disclosure
 
-I used Claude (the chat AI) to help me debug Docker build issues, write parts of the README, and speed up some of the boilerplate. The design, use case, API shape, and business rules all came from my own proposal, and I went through the code to make sure I understand every part of it.
+I used Claude to help me debug Docker build issues, write parts of the README, and speed up some of the boilerplate. The design, use case, API shape, and business rules all came from my own proposal, and I went through the code to make sure I understand every part of it.
