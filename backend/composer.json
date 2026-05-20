@@ -1,0 +1,19 @@
+{
+    "name": "padel/booking-api",
+    "description": "Padel Court Booking REST API",
+    "type": "project",
+    "require": {
+        "php": ">=8.2",
+        "firebase/php-jwt": "^6.10 || ^7.0"
+    },
+    "config": {
+        "audit": {
+            "abandoned": "ignore"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
